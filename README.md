@@ -1,6 +1,8 @@
 # poissonreg
 Model Wrappers for Poisson Regression Use poisson_reg (poissonreg) With (In) R Software
 
+https://www.youtube.com/watch?v=dVicPcMWC5A
+
 Olah Data Semarang
 
 WA : +6285227746673 (085227746673)
